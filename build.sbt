@@ -1,3 +1,5 @@
+scalaVersion in ThisBuild := "2.12.1"
+
 val commonSettings = Seq(
   scalaVersion := "2.12.1"
 )
